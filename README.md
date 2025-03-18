@@ -52,12 +52,12 @@ python manage.py runserver
 <img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* User Registration and Authenticaiton
+* Search and Dropdown Menu
+* Built an API with Django REST Framework (DRF)
+* Connect an external database (MySQL)
 
 # Tech Stack
 * Django
-* PostgresSQL
+* MySQL
 * Django REST Framework
