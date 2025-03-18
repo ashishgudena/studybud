@@ -1,56 +1,49 @@
-<div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
-
 # StudyBuddy
-</div>
 
-### Cloning the repository
+### Steps:-
 
---> Clone the repository using the command below :
+--> 1. Clone the repository
 ```bash
 git clone https://github.com/divanov11/StudyBud.git
 
 ```
 
---> Move into the directory where we have the project files : 
+--> 2. Move into the directory
 ```bash
 cd StudyBud
 
 ```
 
---> Create a virtual environment :
+--> 3. Create a virtual environment
 ```bash
-# Let's install virtualenv first
+# install virtualenv if it has not been installed yet
 pip install virtualenv
 
-# Then we create our virtual environment
+# create virtual environment
 virtualenv envname
 
 ```
 
---> Activate the virtual environment :
+--> 4. Activate the virtual environment
 ```bash
 envname\scripts\activate
 
 ```
 
---> Install the requirements :
+--> 5. Install the requirements
 ```bash
 pip install -r requirements.txt
 
 ```
 
-#
 
-### Running the App
-
---> To run the App, we use :
+--> 6. Run the web application
 ```bash
 python manage.py runserver
 
 ```
 
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+> The development server will be started at http://127.0.0.1:8000/
 
 #
 
