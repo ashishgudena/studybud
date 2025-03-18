@@ -4,7 +4,7 @@
 
 --> 1. Clone the repository
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/ashishgudena/StudyBud.git
 
 ```
 
